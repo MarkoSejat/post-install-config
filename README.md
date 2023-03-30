@@ -129,6 +129,7 @@ Our next order of business is configuring our SLAs which we talked about before 
 <br />
 
 <p>
+<img src="https://i.imgur.com/1IIBQbP.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/hEHOqFD.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
