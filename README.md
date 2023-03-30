@@ -52,25 +52,68 @@ Now we have to set up our "Departments". Since tickets are routed through Depart
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jvU44VB.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PTxiWam.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will now be setting up "Teams". Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. Having Agents from different Departments assigned to a Team will supersede the parameters of the Agents’ Department rules. For example, you can create a Help Topic associated with a particular product you produce, and assign it to a Team of specialist Agents from different Departments. So again, going back to our admin panel we can go to Agents > Teams > Add New Team. For this lab I created a team called "Level II Support" and added myself under the "members" Tab. Click "Create Team" and thats it. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GePDo8w.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that we have our roles, departments, and teams set up we need to allow users the ability to create tickets. We are now going to set it up so that anonymous users who arent in the system can go ahead and create tickets. We can do this by going to Admin Panel > Settings > Users > Settings > and make sure that "Require registration and login to create tickets" is unchecked.  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MJQj6gn.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we will be setting up our "Agents". Agents are basically the help-desk employee workers who are actually going through all the tickets and so on. Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile. We can start off by going to our Admin Panel > Agents > Add New Agent. I will create a few different ones for demonstration purposes. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wToLGIF.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AZl1oIG.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZX1mAob.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After we set the password we can adjust different configurations under each tab. I placed Jane Doe in the Systems-Administrator Department and Level II Support under teams.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PC6to0L.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+blah blah blah blah blah 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PC6to0L.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+blah blah blah blah blah 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PC6to0L.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+blah blah blah blah blah 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PC6to0L.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+blah blah blah blah blah 
 </p>
 <br />
