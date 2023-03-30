@@ -139,9 +139,36 @@ We will create three SLA plans. Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev
 <br />
 
 <p>
-<img src="https://i.imgur.com/PC6to0L.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SlwEL6I.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-blah blah blah blah blah 
+The last step in this section will be configuring the Help Topics. Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for further breakdown (For example, Human Resources and Human Resources/Payroll.) Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low. There are two places where the Help Topic must be selected on New Tickets; the client portal and new tickets created internally by staff. When Users select the Help Topic, they are not aware of the configurations in place for that Help Topic. 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/8ZymBju.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We can go to Admin Panel > Manage > Help Topics > Add New Help Topic. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TcqiuCX.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We will create the following help topics:
+<br>
+Business Critical Outage
+<br>
+Personal Computer Issues
+<br>
+Equipment Request
+<br>
+Password Reset
+<br>
+Once we have our Help Topics created we can complete this section of the project. I will demonstrate everything that we have done up to this point in the next project! Thank you.
 </p>
 <br />
