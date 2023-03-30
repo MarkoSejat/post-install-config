@@ -82,31 +82,58 @@ Next we will be setting up our "Agents". Agents are basically the help-desk empl
 <img src="https://i.imgur.com/ZX1mAob.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After we set the password we can adjust different configurations under each tab. I placed Jane Doe in the Systems-Administrator Department and Level II Support under teams.
+After we set the password we can adjust different configurations under each tab. I placed Jane Doe in the Systems-Administrator Department and Level II Support under teams. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PC6to0L.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U8Lo8mt.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZaMOVHi.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-blah blah blah blah blah 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/PC6to0L.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-blah blah blah blah blah 
+I am now going to create yet another user named John Doe following the same steps as before. This time I will be giving John Doe "view only" ability under "Access" and placing him in "Support" under Primary Department.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PC6to0L.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yNrmYKG.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-blah blah blah blah blah 
+Since we cannot have a ticketing system without any actual users, we will have to create our own for the purpose of this lab. Users can now create an account and log-in to create a ticket or check a ticket’s status. As always with osTicket, users or ticket creators are associated with their email address as the unique identifier of each user. The User Directory, located on the Agent Panel, allows agents to search tickets by user as well as create Organizations to associate the user to. Agents can be configured as internal Account Managers for tickets created by users of an Organization. Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. Users can be added or deleted from the User Directory of the help desk at any time. Please note, if the user is deleted the tickets of the user must also be deleted.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/vLYqSnV.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1Fek9lj.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We will start off by creating a new user named "Karen". We can do this by going to the agent panel as opposed to the admin panel that we have used until now. From there we can click on "Users" and then "Add User".  If you look at the photos above you can see that I created a generic email address as Karen@osticket.com and just named the user "Karen Karen".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/y7ot74F.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I will now create a second user just like I did with Karen but this time I will name the user "Ken Ken". 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/WrPICgX.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Our next order of business is configuring our SLAs which we talked about before when setting up departments. If you dont remember, SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed. SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans. Click on the top right of the table to “Add New SLA Plan”.  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hEHOqFD.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We will create three SLA plans. Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, business hours). We can do this by clicking "Add New SLA Plan".
+
 </p>
 <br />
 
